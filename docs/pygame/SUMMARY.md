@@ -1,3 +1,4 @@
++   [Pygame 游戏制作指南](README.md)
 +   [第 1 章——安装 Python 和 Pygame](01.md)
 +   [第 2 章 Pygame 基础知识](02.md)
 +   [第三章——记忆难题](03.md)
