@@ -22,7 +22,7 @@
 
 校对者需要熟练掌握 Markdown 和 Git，以及文档的主题（编程，Web开发，大数据，AI，安全之一）。
 
-首先查看[整体进度](https://github.com/apachecn/ds-cmd-line-2e-zh/issues/1)，确认没有人认领了你想认领的章节。
+首先查看[整体进度](https://github.com/apachecn/invent-with-python-zh/issues/1)，确认没有人认领了你想认领的章节。
  
 然后回复 ISSUE，注明“章节 + QQ 号”，便于联系和跟踪进度。
 
